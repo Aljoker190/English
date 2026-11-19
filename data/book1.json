@@ -1,0 +1,351 @@
+{
+  "bookTitle": "Book 1 - Foundation",
+  "units": [
+    {
+      "id": "unit-1",
+      "titleEn": "Unit 1: Greetings & Introductions",
+      "titleAr": "الوحدة الأولى: التحيات والتعارف",
+      "lessons": [
+        {
+          "id": "u1-l1",
+          "titleEn": "Lesson 1: Basic Greetings",
+          "titleAr": "الدرس الأول: التحيات الأساسية",
+          "grammar": {
+            "title": "قاعدة الدرس: فعل الكينونة (Verb to be: am / is / are)",
+            "explanation": "نستخدم (am) مع الضمير I، و(is) مع المفرد الغائب (He, She, It)، و(are) مع الجمع والمخاطب (You, We, They) لتكوين جمل التعريف والحالة.",
+            "examples": [
+              { "en": "I am fine, thank you.", "ar": "أنا بخير، شكراً لك." },
+              { "en": "She is a new student.", "ar": "هي طالبة جديدة." },
+              { "en": "How are you today?", "ar": "كيف حالك اليوم؟" }
+            ]
+          },
+          "vocabulary": [
+            {
+              "word": "Hello",
+              "phonetic": "/həˈloʊ/",
+              "meaning": "مرحباً",
+              "example": "Hello! Nice to meet you."
+            },
+            {
+              "word": "Good morning",
+              "phonetic": "/ɡʊd ˈmɔːrnɪŋ/",
+              "meaning": "صباح الخير",
+              "example": "Good morning, teacher."
+            },
+            {
+              "word": "Thank you",
+              "phonetic": "/θæŋk juː/",
+              "meaning": "شكراً لك",
+              "example": "Thank you for your help."
+            },
+            {
+              "word": "Please",
+              "phonetic": "/pliːz/",
+              "meaning": "من فضلك",
+              "example": "Please sit down."
+            },
+            {
+              "word": "Excuse me",
+              "phonetic": "/ɪkˈskjuːz miː/",
+              "meaning": "عفواً / المعذرة",
+              "example": "Excuse me, where is the class?"
+            },
+            {
+              "word": "Goodbye",
+              "phonetic": "/ˌɡʊdˈbaɪ/",
+              "meaning": "إلى اللقاء",
+              "example": "Goodbye! See you tomorrow."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "I ___ very happy today.",
+              "options": ["is", "am", "are", "be"],
+              "correctIndex": 1,
+              "explanation": "نستخدم (am) دائماً مع الضمير I."
+            },
+            {
+              "question": "How ___ you?",
+              "options": ["am", "is", "are", "was"],
+              "correctIndex": 2,
+              "explanation": "الضمير you يأخذ الفعل المساعد (are)."
+            },
+            {
+              "question": "Which phrase do we use in the morning?",
+              "options": ["Good night", "Good morning", "Goodbye", "Excuse me"],
+              "correctIndex": 1,
+              "explanation": "نقول Good morning للتحية في فترة الصباح."
+            },
+            {
+              "question": "He ___ my friend.",
+              "options": ["are", "am", "is", "were"],
+              "correctIndex": 2,
+              "explanation": "الضمير المفرد He يأخذ (is)."
+            }
+          ],
+          "dailyTasks": [
+            { "id": "t1", "title": "الاستماع لنطق جميع كلمات الدرس الـ 6" },
+            { "id": "t2", "title": "قراءة أمثلة القاعدة بصوت مرتفع 3 مرات" },
+            { "id": "t3", "title": "اجتياز الاختبار التفاعلي بنسبة 75% فأكثر" }
+          ]
+        },
+        {
+          "id": "u1-l2",
+          "titleEn": "Lesson 2: Introducing Yourself",
+          "titleAr": "الدرس الثاني: تقديم نفسك",
+          "grammar": {
+            "title": "قاعدة الدرس: ضمائر الملكية الأساسية (my / your / his / her)",
+            "explanation": "نستخدم صفات الملكية قبل الاسم لبيان لمن يعود الشيء، مثل (My name) اسمي، و(Your name) اسمك.",
+            "examples": [
+              { "en": "My name is Ali.", "ar": "اسمي علي." },
+              { "en": "What is your name?", "ar": "ما اسمك؟" },
+              { "en": "I am from Yemen.", "ar": "أنا من اليمن." }
+            ]
+          },
+          "vocabulary": [
+            {
+              "word": "Name",
+              "phonetic": "/neɪm/",
+              "meaning": "اسم",
+              "example": "My first name is Sara."
+            },
+            {
+              "word": "Country",
+              "phonetic": "/ˈkʌntri/",
+              "meaning": "دولة / بلد",
+              "example": "Yemen is a beautiful country."
+            },
+            {
+              "word": "Student",
+              "phonetic": "/ˈstuːdnt/",
+              "meaning": "طالب",
+              "example": "I am an English student."
+            },
+            {
+              "word": "Teacher",
+              "phonetic": "/ˈtiːtʃər/",
+              "meaning": "معلم",
+              "example": "Our teacher is very helpful."
+            },
+            {
+              "word": "Friend",
+              "phonetic": "/frend/",
+              "meaning": "صديق",
+              "example": "Ahmed is my best friend."
+            },
+            {
+              "word": "City",
+              "phonetic": "/ˈsɪti/",
+              "meaning": "مدينة",
+              "example": "Sana'a is an old city."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "___ name is Omar.",
+              "options": ["I", "Me", "My", "You"],
+              "correctIndex": 2,
+              "explanation": "نستخدم صفة الملكية (My) قبل كلمة name."
+            },
+            {
+              "question": "Where are you ___?",
+              "options": ["from", "in", "on", "to"],
+              "correctIndex": 0,
+              "explanation": "للسؤال عن البلد نستخدم: Where are you from?"
+            },
+            {
+              "question": "What is ___ job? (talking to a man)",
+              "options": ["she", "his", "he", "her"],
+              "correctIndex": 1,
+              "explanation": "للملكية للمذكر المفرد نستخدم (his)."
+            },
+            {
+              "question": "They ___ students at the institute.",
+              "options": ["is", "am", "are", "has"],
+              "correctIndex": 2,
+              "explanation": "الضمير الجمع They يأخذ الفعل (are)."
+            }
+          ],
+          "dailyTasks": [
+            { "id": "t1", "title": "الاستماع لجميع المفردات وتكرارها" },
+            { "id": "t2", "title": "تقديم نفسك بالإنجليزية في 3 جمل قصيرة" },
+            { "id": "t3", "title": "إكمال الاختبار التفاعلي" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "unit-2",
+      "titleEn": "Unit 2: Family & Daily Routine",
+      "titleAr": "الوحدة الثانية: العائلة والروتين اليومي",
+      "lessons": [
+        {
+          "id": "u2-l1",
+          "titleEn": "Lesson 3: Family Members",
+          "titleAr": "الدرس الثالث: أفراد العائلة",
+          "grammar": {
+            "title": "قاعدة الدرس: فعل الملكية (Have / Has)",
+            "explanation": "نستخدم (have) مع الضمائر (I, You, We, They)، ونستخدم (has) مع المفرد الغائب (He, She, It).",
+            "examples": [
+              { "en": "I have two brothers.", "ar": "لدي أخوان." },
+              { "en": "She has a big family.", "ar": "لديها عائلة كبيرة." },
+              { "en": "We have a nice house.", "ar": "لدينا منزل جميل." }
+            ]
+          },
+          "vocabulary": [
+            {
+              "word": "Father",
+              "phonetic": "/ˈfɑːðər/",
+              "meaning": "أب",
+              "example": "My father works in an office."
+            },
+            {
+              "word": "Mother",
+              "phonetic": "/ˈmʌðər/",
+              "meaning": "أم",
+              "example": "My mother cooks delicious food."
+            },
+            {
+              "word": "Brother",
+              "phonetic": "/ˈbrʌðər/",
+              "meaning": "أخ",
+              "example": "My brother plays football."
+            },
+            {
+              "word": "Sister",
+              "phonetic": "/ˈsɪstər/",
+              "meaning": "أخت",
+              "example": "My sister likes reading."
+            },
+            {
+              "word": "Parents",
+              "phonetic": "/ˈperənts/",
+              "meaning": "الوالدان",
+              "example": "I love my parents."
+            },
+            {
+              "word": "Family",
+              "phonetic": "/ˈfæməli/",
+              "meaning": "عائلة",
+              "example": "My family lives in Sana'a."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "I ___ one sister.",
+              "options": ["has", "have", "is", "am"],
+              "correctIndex": 1,
+              "explanation": "الضمير I يأخذ (have)."
+            },
+            {
+              "question": "He ___ three brothers.",
+              "options": ["have", "are", "has", "is"],
+              "correctIndex": 2,
+              "explanation": "المفرد الغائب He يأخذ (has)."
+            },
+            {
+              "question": "Father and mother together are called ___.",
+              "options": ["sisters", "friends", "parents", "brothers"],
+              "correctIndex": 2,
+              "explanation": "كلمة parents تعني الوالدين (الأب والأم)."
+            },
+            {
+              "question": "They ___ a large family.",
+              "options": ["has", "have", "is", "does"],
+              "correctIndex": 1,
+              "explanation": "الضمير They يأخذ (have)."
+            }
+          ],
+          "dailyTasks": [
+            { "id": "t1", "title": "حفظ نطق ومعاني أفراد العائلة" },
+            { "id": "t2", "title": "كتابة جملتين باستخدام have و has" },
+            { "id": "t3", "title": "إكمال الاختبار التفاعلي" }
+          ]
+        },
+        {
+          "id": "u2-l2",
+          "titleEn": "Lesson 4: Daily Activities",
+          "titleAr": "الدرس الرابع: الأنشطة اليومية",
+          "grammar": {
+            "title": "قاعدة الدرس: المضارع البسيط (Present Simple)",
+            "explanation": "نستخدم المضارع البسيط للحديث عن العادات والروتين اليومي. يبقى الفعل كما هو مع (I, You, We, They)، ونضيف (s) للفعل مع (He, She, It).",
+            "examples": [
+              { "en": "I wake up at 6 AM.", "ar": "أستيقظ في الساعة السادسة صباحاً." },
+              { "en": "He drinks coffee every morning.", "ar": "هو يشرب القهوة كل صباح." },
+              { "en": "We study English daily.", "ar": "نحن ندرس الإنجليزية يومياً." }
+            ]
+          },
+          "vocabulary": [
+            {
+              "word": "Wake up",
+              "phonetic": "/weɪk ʌp/",
+              "meaning": "يستيقظ",
+              "example": "I wake up early every day."
+            },
+            {
+              "word": "Breakfast",
+              "phonetic": "/ˈbrekfəst/",
+              "meaning": "الإفطار",
+              "example": "I eat breakfast at seven."
+            },
+            {
+              "word": "Work",
+              "phonetic": "/wɜːrk/",
+              "meaning": "يعمل / عمل",
+              "example": "I go to work by bus."
+            },
+            {
+              "word": "Study",
+              "phonetic": "/ˈstʌdi/",
+              "meaning": "يدرس",
+              "example": "I study English at night."
+            },
+            {
+              "word": "Read",
+              "phonetic": "/riːd/",
+              "meaning": "يقرأ",
+              "example": "She reads a book before sleep."
+            },
+            {
+              "word": "Sleep",
+              "phonetic": "/sliːp/",
+              "meaning": "ينام",
+              "example": "I sleep at 10 PM."
+            }
+          ],
+          "quiz": [
+            {
+              "question": "I ___ up at 6 o'clock.",
+              "options": ["wakes", "wake", "waking", "woke"],
+              "correctIndex": 1,
+              "explanation": "مع الضمير I نستخدم الفعل الأساسي بدون إضافة s."
+            },
+            {
+              "question": "She ___ English every evening.",
+              "options": ["study", "studying", "studies", "studied"],
+              "correctIndex": 2,
+              "explanation": "مع She نضيف s/ies للفعل في المضارع البسيط."
+            },
+            {
+              "question": "We eat ___ in the morning.",
+              "options": ["breakfast", "sleep", "study", "night"],
+              "correctIndex": 0,
+              "explanation": "وجبة الصباح هي breakfast (الإفطار)."
+            },
+            {
+              "question": "Ahmed ___ a book every week.",
+              "options": ["read", "reads", "reading", "to read"],
+              "correctIndex": 1,
+              "explanation": "Ahmed اسم مفرد غائب، لذلك نضيف s للفعل (reads)."
+            }
+          ],
+          "dailyTasks": [
+            { "id": "t1", "title": "الاستماع لجميع أفعال الروتين اليومي" },
+            { "id": "t2", "title": "وصف روتينك الصباحي بـ 3 جمل" },
+            { "id": "t3", "title": "إكمال الاختبار التفاعلي" }
+          ]
+        }
+      ]
+    }
+  ]
+}
