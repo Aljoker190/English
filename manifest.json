@@ -1,0 +1,21 @@
+{
+  "name": "معهد اللغات - Book 1",
+  "short_name": "Book 1",
+  "description": "تطبيق تعليم اللغة الإنجليزية التفاعلي للمعهد",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "dir": "rtl",
+  "lang": "ar",
+  "background_color": "#f3f6fb",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='110' fill='%232563eb'/%3E%3Ctext x='256' y='320' font-size='220' font-family='Arial, sans-serif' font-weight='bold' fill='white' text-anchor='middle'%3EB1%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
